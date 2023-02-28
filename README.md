@@ -2,7 +2,7 @@
 - 👀 I’m interested in web developer
 - 🌱 I’m currently learning react.js
 - 💞️ I’m looking to collaborate on any project
-- 📫 How to reach me email: olagbayinoyelere@gmail.com or WhatsApp:08050889970
+- 📫 How to reach me email: olagbayinoyelere@gmail.com 
 
 <!---
 Iyanuoluwa106/Iyanuoluwa106 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
